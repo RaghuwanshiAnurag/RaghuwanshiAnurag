@@ -1,6 +1,6 @@
 ### Hi there, I'm ANURAG RAGHUWANSHI  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-## I'm a ***STUDENT*** 🎓!!
+## I'm a ***Software Engineer*** 🎓!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!]  -->
 - 🌱 I’m currently learning everything 🤣
