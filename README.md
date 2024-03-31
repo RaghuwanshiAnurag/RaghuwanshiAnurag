@@ -3,8 +3,8 @@
 ## I'm a ***Software Engineer*** 🎓!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!]  -->
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Is to Learn new Technologies and Contribute to more projects
+- 🌱 I’m currently learning everything 
+- 🥅 Goals: Is to Learn new Technologies and Contribute to more projects
 - ⚡ Fun fact: I love Food 🍔and Anime 😄
 - 📪 How to reach me: anuragr716@gmail.com
 - 💖 Hobbies: Sports and Travelling
